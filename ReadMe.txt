@@ -1,6 +1,3 @@
-										Readme.txt
-									      ---------------
-
 ENVIRONMENT
 ------------
 	Programming Language: Java
