@@ -1,0 +1,5 @@
+#!/bin/bash
+
+javac -Xlint:unchecked -cp ".:./extlib/slf4j-api-1.7.21.jar:./extlib/slf4j-simple-1.6.1.jar:./extlib/libthrift-0.9.3.jar:./extlib/commons-collections4-4.1.jar:./extlib/json-simple-1.1.1.jar" consistency/*.java
+
+echo "Compiled all files Successfully."
